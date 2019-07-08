@@ -7,6 +7,7 @@ This is a small business template built with [Victor Hugo](https://github.com/ne
 Use our deploy button to get your own copy of the repository. 
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/one-click-hugo-cms&stack=cms)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FGamingpc%2Fgaming-cms.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FGamingpc%2Fgaming-cms?ref=badge_shield)
 
 This will setup everything needed for running the CMS:
 
@@ -44,3 +45,7 @@ All SVG icons stored in `site/static/img/icons` are automatically optimized with
   <use xlink:href="#SVG-ID"></use>
 </svg>
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FGamingpc%2Fgaming-cms.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FGamingpc%2Fgaming-cms?ref=badge_large)
